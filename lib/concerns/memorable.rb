@@ -5,7 +5,7 @@ module Memorable
   end
 
   def count
-
+    self.all.count
   end
 
 end
@@ -18,3 +18,13 @@ end
 # def self.count
 #   @@artists.count
 # end
+
+# song
+
+  # def self.reset_all
+  #   @@songs.clear
+  # end
+  
+  # def self.count
+  #   self.all.count
+  # end
