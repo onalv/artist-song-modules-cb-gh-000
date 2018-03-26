@@ -9,3 +9,12 @@ module Memorable
   end
 
 end
+
+# artist
+# def self.reset_all
+#   self.all.clear
+# end
+#
+# def self.count
+#   @@artists.count
+# end
